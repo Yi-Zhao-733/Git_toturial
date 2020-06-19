@@ -1,2 +1,2 @@
 More content in file1
-New content in master
+merge conflict content
