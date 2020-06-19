@@ -1,2 +1,3 @@
 More content in file1
 merge conflict content
+new content for github
